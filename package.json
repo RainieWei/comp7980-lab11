@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@mdi/font": "^7.4.47",
+    "@oruga-ui/oruga-next": "^0.8.7",
     "@oruga-ui/theme-bootstrap": "^0.5.4",
     "apexcharts": "^3.48.0",
     "bootstrap": "^5.3.3",
